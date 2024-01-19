@@ -1,0 +1,8 @@
+public
+*.html
+*.pdf
+.idea
+target
+.bsp
+*.bkp
+.vscode
